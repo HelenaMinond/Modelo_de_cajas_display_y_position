@@ -8,11 +8,49 @@ html, body, p, section {
 }
 
 .bandera {
-  border: 2px solid #808080;
-  height: 100%;
-  width: 24%;
-  padding: 5px;
+  border: 1px solid gray;
+  margin: 10px 60px;
+  height: 350px;
+  width: calc(50% - 125px);
   display: inline-block;
+}
+.bandera__esp--rojo {
+  background-color: red;
+  height: 25%;
+  width: 100%;
+}
+.bandera__esp--amarillo {
+  background-color: yellow;
+  height: 50%;
+  width: 100%;
+}
+.bandera__din--cuadrado1 {
+  background-color: red;
+  height: 45%;
+  width: 30%;
+}
+.bandera__din--cuadrado2 {
+  background-color: red;
+  height: 45%;
+  width: 30%;
+  position: relative;
+  top: 10%;
+}
+.bandera__din--rectangulo1 {
+  background-color: red;
+  height: 45%;
+  width: 63%;
+  position: relative;
+  bottom: 90%;
+  left: 37%;
+}
+.bandera__din--rectangulo2 {
+  background-color: red;
+  height: 45%;
+  width: 63%;
+  position: relative;
+  bottom: 80%;
+  left: 37%;
 }
 
 .main {
