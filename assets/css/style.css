@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-html, body, p, section {
+html, body, p, section, img {
   margin: 0;
   padding: 0;
 }
@@ -93,6 +93,10 @@ html, body, p, section {
   left: 40px;
   padding: 20px;
   position: relative;
+}
+
+.promocion {
+  position: absolute;
 }
 
 /*# sourceMappingURL=style.css.map */
