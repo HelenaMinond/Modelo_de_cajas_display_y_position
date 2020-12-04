@@ -1,10 +1,10 @@
 .main {
     background-color: #B0CCAB;
     padding: 50px;
-}
 
-.main__paragraph {
-    left: 40px;
-    padding: 20px;
-    position: relative;
+    &__paragraph {
+        left: 40px;
+        padding: 20px;
+        position: relative;
+    }
 }

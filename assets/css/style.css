@@ -111,4 +111,9 @@ html, body, p, section, img {
   position: relative;
 }
 
+.promocion3 {
+  position: absolute;
+  right: 0vw;
+}
+
 /*# sourceMappingURL=style.css.map */
