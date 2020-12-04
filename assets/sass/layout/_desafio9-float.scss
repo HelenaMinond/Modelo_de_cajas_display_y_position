@@ -1,0 +1,43 @@
+.nav {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.menu {
+    background-color: #f3f3f3;
+    float: left;
+    padding: 15px 10px;
+    width: 25%;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    margin-left: 40px;
+}
+
+.contenido {
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 25%;
+
+    &__subtitulo{
+        padding-left: 10px;
+    }
+    
+    &__parrafo{
+        line-height: 20px;
+        margin: 10px;
+    }
+}
+
+.footer {
+    background-color: gray;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+}
