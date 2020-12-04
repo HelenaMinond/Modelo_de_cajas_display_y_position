@@ -87,7 +87,6 @@ html, body, p, section {
 .main {
   background-color: #B0CCAB;
   padding: 50px;
-  position: absolute;
 }
 
 .main__paragraph {
