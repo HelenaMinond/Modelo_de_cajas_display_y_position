@@ -99,4 +99,16 @@ html, body, p, section, img {
   position: absolute;
 }
 
+.promocion2 {
+  position: absolute;
+  width: 54px;
+  height: 50px;
+  top: 24vh;
+  left: 11.2vw;
+}
+
+.producto2 {
+  position: relative;
+}
+
 /*# sourceMappingURL=style.css.map */
