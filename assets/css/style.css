@@ -88,7 +88,6 @@ html, body, p, section, img {
   background-color: #B0CCAB;
   padding: 50px;
 }
-
 .main__paragraph {
   left: 40px;
   padding: 20px;
@@ -114,6 +113,34 @@ html, body, p, section, img {
 .promocion3 {
   position: absolute;
   right: 0vw;
+}
+
+ul.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul.menu li {
+  background: olive;
+  box-sizing: border-box;
+  float: left;
+  width: 25%;
+}
+
+ul.menu li a {
+  color: #FFF;
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+ul.menu li a:hover {
+  background: #000;
+}
+
+.parrafo {
+  clear: both;
 }
 
 /*# sourceMappingURL=style.css.map */
